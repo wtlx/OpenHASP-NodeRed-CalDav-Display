@@ -1,0 +1,172 @@
+{"page":0,"id":2,"obj":"btn","action":{"down": "page back"},"x":419,"y":0,"w":60,"h":60,"bg_color":"#2C3E50","text":"\uE2DC","text_color":"#FFFFFF","radius":0,"border_side":0,"text_font":40}
+{"page":0,"id":4,"obj":"label","x":5,"y":0,"h":45,"w":150,"text":"\uE0ED 00.00.00","text_color":"#FFFFFF","align":2,"bg_color":"#2C3E50","radius":0,"border_side":0}
+{"page":0,"id":6,"obj":"label","x":190,"y":0,"h":45,"w":120,"text":"\uE150 00:00","text_color":"#FFFFFF","align":0,"bg_color":"#2C3E50"}
+
+
+
+{"page":1,"id":0,"next":2}
+{"page":1,"id":1,"obj":"btn","action": "p2","x":3,"y":70,"h":40,"w":250,"text":"Kirchraum: ","align":"left","text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":2,"obj":"label","x":300,"y":70,"h":40,"w":100,"text":"frei","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":3,"obj":"btn","action": "p3","x":3,"y":130,"h":40,"w":250,"text":"Saal: ","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":4,"obj":"label","x":300,"y":130,"h":40,"w":100,"text":"besetzt","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":5,"obj":"btn","action": "p4","x":3,"y":190,"h":40,"w":250,"text":"Wintergarten:   ","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":6,"obj":"label","x":300,"y":190,"h":40,"w":100,"text":"frei","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":7,"obj":"btn","action": "p5","x":3,"y":250,"h":40,"w":250,"text":"Konfiraum: ","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":8,"obj":"label","x":300,"y":250,"h":40,"w":100,"text":"frei","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":9,"obj":"btn","action": "p6","x":3,"y":310,"h":40,"w":250,"text":"Multiraum: ","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":10,"obj":"label","x":300,"y":310,"h":40,"w":100,"text":"frei","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":11,"obj":"btn","action": "p7","x":3,"y":370,"h":40,"w":250,"text":"Musikraum:   \uE75A ","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":12,"obj":"label","x":300,"y":370,"h":40,"w":100,"text":"frei","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":13,"obj":"btn","action": "p8","x":3,"y":430,"h":40,"w":250,"text":"Küche:   ","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":1,"id":14,"obj":"label","x":300,"y":430,"h":40,"w":100,"text":"frei","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+
+
+
+
+
+{"page":2,"id":0,"next":3}
+{"page":2,"id":1,"obj":"label","x":5,"y":90,"h":60,"w":300,"text_font":"60","text":"Kirchraum","align":0,"text_color":"#FF0000","bg_color":"#2C3E50"}
+{"page":2,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,5°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":2,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":2,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Familiengottesdienst Kunterbunt","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":2,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":2,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+
+
+
+{"page":3,"id":0,"next":4}
+{"page":3,"id":1,"obj":"label","x":5,"y":90,"h":60,"w":300,"text_font":"60","text":"Saal","align":0,"text_color":"#FF0000","bg_color":"#2C3E50"}
+{"page":3,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,4°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":3,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":3,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Familiengottesdienst Kunterbunt","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":3,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":3,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+
+
+
+
+
+{"page":4,"id":0,"next":5}
+{"page":4,"id":1,"obj":"label","x":5,"y":90,"h":80,"w":300,"text_font":"60","text":"Wintergarten","align":0,"text_color":"#00FF00","bg_color":"#2C3E50"}
+{"page":4,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,6°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":4,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":4,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Sitzung BauFi","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":4,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":4,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+
+
+
+
+
+
+{"page":5,"id":0,"next":6}
+{"page":5,"id":1,"obj":"label","x":5,"y":90,"h":60,"w":300,"text_font":"60","text":"Konfiraum","align":0,"text_color":"#FF0000","bg_color":"#2C3E50"}
+{"page":5,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,8°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":5,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":5,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Familiengottesdienst Kunterbunt","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":5,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":5,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E"}
+
+
+
+
+
+
+{"page":6,"id":0,"next":7}
+{"page":6,"id":1,"obj":"label","x":5,"y":90,"h":60,"w":300,"text_font":"60","text":"Multiraum","align":0,"text_color":"#FF0000","bg_color":"#2C3E50"}
+{"page":6,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,7°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":6,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":6,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Sitzung Kirchenvorstand","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":6,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":6,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+
+
+
+
+{"page":7,"id":0,"next":8}
+{"page":7,"id":1,"obj":"label","x":5,"y":90,"h":60,"w":300,"text_font":"60","text":"Musikraum","align":0,"text_color":"#00FF00","bg_color":"#2C3E50"}
+{"page":7,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,4°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":7,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":7,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Probe Posaunenchor","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":7,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":7,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+
+
+
+
+
+{"page":8,"id":0,"next":1}
+{"page":8,"id":1,"obj":"label","x":5,"y":90,"h":60,"w":300,"text_font":"60","text":"Küche","align":0,"text_color":"#FF0000","bg_color":"#2C3E50"}
+{"page":8,"id":6,"obj":"label","x":380,"y":110,"h":40,"w":100,"text":"19,5°C","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":8,"id":7,"obj":"label","x":5,"y":190,"h":40,"w":150,"text_decor":"1","text":"Termine:","align":0,"text_color":"#00B5FF"}
+{"page":8,"id":8,"obj":"label","x":280,"y":190,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":9,"obj":"label","x":365,"y":190,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":10,"obj":"label","x":385,"y":190,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":11,"obj":"label","x":160,"y":190,"h":40,"w":80,"text_decor":"1","text":"22.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":12,"obj":"label","x":160,"y":230,"h":40,"w":370,"text":"Männerkochen","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
+
+{"page":8,"id":13,"obj":"label","x":280,"y":310,"h":40,"w":85,"text":"14:30","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":14,"obj":"label","x":365,"y":310,"h":40,"w":10,"text":"-","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":15,"obj":"label","x":385,"y":310,"h":40,"w":85,"text":"22:56","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":16,"obj":"label","x":160,"y":310,"h":40,"w":80,"text_decor":"1","text":"23.12.","align":0,"text_color":"#FFFFFF","bg_color":"#2C3E50"}
+{"page":8,"id":17,"obj":"label","x":160,"y":350,"h":40,"w":300,"text":"Konfis","align":0,"text_color":"#C0C0C0","bg_color":"#2C3E50"}
